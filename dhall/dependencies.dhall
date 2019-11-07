@@ -1,11 +1,11 @@
 let Dependency =
-      https://raw.githubusercontent.com/eta-lang/dhall-to-etlas/etlas/dhall/types/Dependency.dhall sha256:be82b2f78534259dd9daa761bf33e7445af07881ffce120ba0877d6fea43c882
+      https://raw.githubusercontent.com/eta-lang/dhall-to-etlas/master/dhall/types/Dependency.dhall sha256:eb325fc6883b1cd00e273bae1e52d12ac2c40163664e47591c3429a6e10e6df3
 
 let v =
-      https://raw.githubusercontent.com/eta-lang/dhall-to-etlas/etlas/dhall/Version/v.dhall sha256:a3c7f7d2fbe8ea4358e1f11a0464db2ded38f239349cd0327dc10bcf09174863
+      https://raw.githubusercontent.com/eta-lang/dhall-to-etlas/master/dhall/Version/v.dhall sha256:33726964ba62af58225ffbe64fb963999569b965058dbd9c30bffb72cc1279ab
 
 let thisVersion =
-      https://raw.githubusercontent.com/eta-lang/dhall-to-etlas/etlas/dhall/VersionRange/thisVersion.dhall sha256:ddbb6d0a440645550bb7bef162dc4377280da58fe385133552675f02907ee123
+      https://raw.githubusercontent.com/eta-lang/dhall-to-etlas/master/dhall/VersionRange/thisVersion.dhall sha256:3e719126ed40d8dbfe1688d35eacc595d02f8ddc02cdd28a1a16d89e7e2b77de
 
 let idx-types = ./types.dhall
 
